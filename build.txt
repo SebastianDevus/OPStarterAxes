@@ -1,0 +1,3 @@
+displayName = OP Copper/Iron axes
+author = ThePanDoctor
+version = 0.1
