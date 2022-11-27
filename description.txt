@@ -1,1 +1,2 @@
-OP Copper/Iron axes is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+OP Copper/Iron axes does exactly what the name implies: makes the copper and iron axes really OP.
+Long story short, axe really powerful, axe swing really fast
